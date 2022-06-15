@@ -3,4 +3,9 @@
   font-weight: bold;
   color: #000;
   text-decoration: none;
+}
+
+.test {
+  width: clamp(800px, 80%, 1100px);
+  background-color: red;
 }/*# sourceMappingURL=main.css.map */

@@ -4,3 +4,7 @@
     color: #000;
     text-decoration: none;
 }
+.test{
+    width: clamp(200px,500px,100%);
+    background-color: red;
+}
