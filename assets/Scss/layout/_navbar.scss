@@ -1,10 +1,25 @@
-.navLogo>a{
-    font-size: 25px;
-    font-weight: bold;
-    color: #000;
-    text-decoration: none;
+header{
+    max-width: 1100px;
+    margin: 0 auto;
+    height: 95px;
 }
-.test{
-    width: clamp(200px,500px,100%);
-    background-color: red;
+.header_nav{
+    a{
+        padding: 30px 10px;
+    }
+}
+#carouselExampleIndicators{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.your-class ,.news_testimonials,.arcitec_plans{
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.card{
+    width: 345px;
+    margin: 0 auto;
+    padding: 0 20px;
+    border: 0;
 }
