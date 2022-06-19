@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbbUCgsIy2a+ERJLRFvXqIGeUP4uRnLg+2ESNWI8spL1qR/qi7PzbuQ03xuf32Wr4N8kCzcZNqniJ7Fp/14tUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\Desktop\\BERYLLIUM-Project\\Berillium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
